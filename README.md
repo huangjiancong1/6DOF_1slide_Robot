@@ -1,7 +1,7 @@
 
 
 <p align="center">
-    <img src="media/mov.gif", width="320">
+    <img src="media/mov.gif", width="640">
 </p>
 
 
@@ -15,18 +15,18 @@
 ## Parameter
 ### Joint DOF
 <p align="center">
-    <img src="media/struct.jpg", width="360">
+    <img src="media/struct.jpg", width="720">
 </p>
 
 ### Angle limit
 <p align="center">
-    <img src="media/robotangle.jpg", width="360">
+    <img src="media/robotangle.jpg", width="720">
 </p>
 
 
 ### D-H parameter method
 <p align="center">
-    <img src="media/robotdh.jpg", width="360">
+    <img src="media/robotdh.jpg", width="720">
 </p>
 
 
@@ -41,5 +41,5 @@ run MovMyRobotDH.m file.
 ```
 
 <p align="center">
-    <img src="media/mov.gif", width="320">
+    <img src="media/mov.gif", width="1280">
 </p>
